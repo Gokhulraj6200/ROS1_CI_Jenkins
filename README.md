@@ -4,7 +4,7 @@
 
 # Jenkins Setup for ROS1 CI for Tortoisebot waypoint server test
 
-This guide is for setting up Jenkins for Continuous Integration in the `ros1_ci` repository.
+This guide is for setting up Jenkins for Continuous Integration in the `ros1_ci_test` repository.
 
 ## Follow the steps below
 
