@@ -61,14 +61,14 @@ This project is configured using freestyle method, to build this project manuall
 
 ##### Note: 
 
--Both the projects start the same docker image and so the same test, this is just to experiment and learn new plugins available.
+- Both the projects start the same docker image and so the same test, this is just to experiment and learn new plugins available.
 
 #### Build CI Test by commit trigger request
 
--we can automate the build process whenever we modify and commit changes to the github account.
--Create a pull request and and once the changes are made then we can see the project is build.
--we can also confirm it by navigating to console output and check that the build has been triggered with SCM.
+- we can automate the build process whenever we modify and commit changes to the github account.
+- Create a pull request and and once the changes are made then we can see the project is build.
+- we can also confirm it by navigating to console output and check that the build has been triggered with SCM.
 
 ##### Note:
 
--this method takes time to build the project
+- this method takes time to build the project
