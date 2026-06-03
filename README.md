@@ -67,8 +67,8 @@ This project is configured using freestyle method, to build this project manuall
 
 - we can automate the build process whenever we modify and commit changes to the github account.
 - Create a pull request and and once the changes are made then we can see the project is build.
-- we can also confirm it by navigating to console output and check that the build has been triggered with SCM.
+- we can also confirm it by navigating to console output and check that the build has been triggered with Source Code Management.
 
 ##### Note:
 
-- this method takes time to build the project
+- this method takes time to build the project.
